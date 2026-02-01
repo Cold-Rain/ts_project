@@ -1,0 +1,29 @@
+2026-01-26 16:47:09,722 | INFO | session_bot | Bot started
+2026-01-26 16:48:19,930 | WARNING | session_bot | User input error for AAPL: No data found for ticker 'AAPL'.
+2026-01-26 16:51:05,893 | INFO | session_bot | Bot started
+2026-01-26 16:51:25,702 | WARNING | session_bot | Primary download empty for AAPL, trying fallback
+2026-01-26 16:51:29,144 | ERROR | session_bot | Data error for AAPL: No data returned for 'AAPL'. Check the symbol or try again later.
+2026-01-26 16:51:57,428 | WARNING | session_bot | Primary download empty for AAPL, trying fallback
+2026-01-26 16:54:07,016 | WARNING | session_bot | Primary download empty for AAPL, trying fallback
+2026-01-27 13:27:52,767 | INFO | session_bot | Bot started
+2026-01-27 13:28:10,249 | ERROR | session_bot | yfinance download failed for AAPL: Yahoo API requires curl_cffi session not <class 'requests.sessions.Session'>. Solution: stop setting session, let YF handle.
+2026-01-27 13:28:10,250 | WARNING | session_bot | Primary download empty for AAPL, trying fallback
+2026-01-27 13:28:11,250 | ERROR | session_bot | yfinance fallback failed for AAPL: Yahoo API requires curl_cffi session not <class 'requests.sessions.Session'>. Solution: stop setting session, let YF handle.
+2026-01-27 13:28:11,251 | ERROR | session_bot | Data error for AAPL: No data returned for 'AAPL'. Check the symbol or try again later.
+2026-01-27 13:28:47,726 | INFO | session_bot | Bot started
+2026-01-27 13:28:59,886 | ERROR | session_bot | yfinance download failed for AAPL: Yahoo API requires curl_cffi session not <class 'requests.sessions.Session'>. Solution: stop setting session, let YF handle.
+2026-01-27 13:28:59,886 | WARNING | session_bot | Primary download empty for AAPL, trying fallback
+2026-01-27 13:29:00,887 | ERROR | session_bot | yfinance fallback failed for AAPL: Yahoo API requires curl_cffi session not <class 'requests.sessions.Session'>. Solution: stop setting session, let YF handle.
+2026-01-27 13:29:00,888 | ERROR | session_bot | Data error for AAPL: No data returned for 'AAPL'. Check the symbol or try again later.
+2026-01-27 13:29:40,591 | INFO | session_bot | Bot started
+2026-01-27 13:29:55,863 | WARNING | session_bot | Model RidgeLagModel failed: Found array with dim 3. StandardScaler expected <= 2.
+2026-01-27 13:31:15,297 | WARNING | session_bot | Primary download empty for OGKB, trying fallback
+2026-01-27 13:31:17,464 | ERROR | session_bot | Data error for OGKB: No data returned for 'OGKB'. Check the symbol or try again later.
+2026-01-27 13:32:12,721 | INFO | session_bot | Bot started
+2026-01-27 13:34:40,659 | WARNING | session_bot | Primary download empty for SP500, trying fallback
+2026-01-27 13:34:42,800 | ERROR | session_bot | Data error for SP500: No data returned for 'SP500'. Check the symbol or try again later.
+2026-01-27 13:35:19,535 | WARNING | session_bot | Primary download empty for GSPC, trying fallback
+2026-01-27 13:35:20,999 | ERROR | session_bot | Data error for GSPC: No data returned for 'GSPC'. Check the symbol or try again later.
+2026-01-27 13:51:52,914 | INFO | session_bot | Bot started
+2026-01-27 13:58:07,501 | INFO | session_bot | Bot started
+2026-01-27 14:06:13,722 | INFO | session_bot | Bot started

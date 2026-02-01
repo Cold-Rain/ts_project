@@ -1,0 +1,10 @@
+aiogram==3.4.1
+yfinance==0.2.36
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+statsmodels==0.14.2
+tensorflow==2.15.0; python_version < "3.12"
+tensorflow==2.16.1; python_version >= "3.12"
+matplotlib==3.8.4
+python-dotenv==1.0.1
